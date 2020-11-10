@@ -53,13 +53,6 @@ export default function Skills() {
                                     <div className="experience">
 
                                         <div className="igt">
-                                        {/* <p><b>Incredible Graphical Technologies &mdash; </b>Software developer(Contract)</p>
-                                        <p>(01 May 2019 - 22 May 2020) Reason for leaving, Contract Ended.</p>
-
-                                        <p>&para; Collaborate in the planning, design, development, and deployment of new applications, and enhancements to existing applications</p>
-                                        <p>&para; Troubleshoot issues and propose solutions</p>
-                                        <p>&para; Integrated new features into existing Web applications</p>
-                                        <p>&para; Assisted in testing and deploying Web applications</p> */}
 
                                         <br/>
                                         <ul class="t-timeline">
@@ -82,14 +75,6 @@ export default function Skills() {
 
                                         <br/>
                                         <div className="emalangeni">
-                                        {/* <p><b>Emalangeni Technologies &mdash; </b>Software developer(Intern)</p>
-                                        <p>(01 May 2019 - 22 May 2020) Reason for leaving, Contract Ended.</p>
-
-                                        <p>&para; Collaborate in the planning, design, development, and deployment of new applications, and enhancements to existing applications</p>
-                                        <p>&para; Troubleshoot issues and propose solutions</p>
-                                        <p>&para; Integrated new features into existing Web applications</p>
-                                        <p>&para; Assisted in testing and deploying Web applications</p> */}
-
 
                                         <ul class="t-timeline">
                                         <li>

@@ -10,7 +10,7 @@ export default function about() {
                 return(
                     <section className="about">
                         <div className="container">
-                            <Title title="About" color="#1c2237"/>
+                            <Title title="About"/>
                             <div className="about-center">
                                 <div className="about-logo">
                                     <img src={AboutLogo} alt="logo"/>
@@ -23,10 +23,6 @@ export default function about() {
 
                                     <div className="name">
                                         <p><span>Name: </span>Musa Mdaka</p>
-                                    </div>
-
-                                    <div className="age">
-                                        <p><span>Age: </span>26</p>
                                     </div>
 
                                     <div className="address">
@@ -77,9 +73,6 @@ export default function about() {
 
                                     <div className="qualifications">
                                         <span>Qualifications</span>
-                                        {/* <p>&rarr;<b>Bachelor of Science in Information Technology</b> 2015-2017</p>
-                                        <p>&rarr; Higher Certificate in <b>Information Technology(Information Systems)</b> 2013-2014</p>
-                                        <p>&rarr; Grade 12 <b>(Matric)</b> 2012</p> */}
 
                                     <ul class="t-timeline"><br/>
                                         <li>
