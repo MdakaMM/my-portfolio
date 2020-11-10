@@ -1,8 +1,6 @@
 import React, {Component} from 'react';
 
 import {Links} from './Data';
-import {devSkills} from './Data';
-import {otherSkills} from './Data';
 import {projects} from './Data';
 
 const ProductContext = React.createContext();
@@ -14,8 +12,6 @@ class ProductProvider extends Component{
         closeLinks:false,
         links:Links,
         headerShow:false,
-        devSkills:devSkills,
-        otherSkills:otherSkills,
         projects:projects,
         // backMode:false,
         // setClass:JSON.parse(localStorage.getItem("Mode"))
