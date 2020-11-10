@@ -45,7 +45,7 @@ export default function Navbar() {
                                         )
                                         
                                     })}
-                                    <a href="https://drive.google.com/file/d/11Esp7VJfITN4FG85C59sTD9Shs4GGXPW/view?usp=sharing" target="_blank" rel="noopener noreeferrer" className="resumeBtn">Download CV</a>
+                                    <a href="https://drive.google.com/file/d/1IifZyeZP8jN-oa6F9aVHVB7O-MufDxso/view?usp=sharing" target="_blank" rel="noopener noreeferrer" className="resumeBtn">Download CV</a>
                                 </ul>
 
                             </nav>
