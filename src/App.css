@@ -22,8 +22,7 @@ a{
 .App{
   /* background: #fff !important; */
   transition: all 0.3 ease-in-out; 
-  background: url(images/bg.png) #fafafa;
-  background-image: url(images/bg.png);
+  background: #fafafa;
 }
 
 .header{

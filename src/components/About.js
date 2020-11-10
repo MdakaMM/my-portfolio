@@ -10,7 +10,7 @@ export default function about() {
                 return(
                     <section className="about">
                         <div className="container">
-                            <Title title="About"/>
+                            <Title title="About" color="#1c2237"/>
                             <div className="about-center">
                                 <div className="about-logo">
                                     <img src={AboutLogo} alt="logo"/>
@@ -25,16 +25,16 @@ export default function about() {
                                         <p><span>Name: </span>Musa Mdaka</p>
                                     </div>
 
-                                    <div className="address">
-                                        <p><span>Address: </span>Mkhuhlu Townsip 180A (Mbombela), Mpumalanga. (Open to Relocate)</p>
-                                    </div>
-
                                     <div className="email">
                                         <p><span>Email: </span><a href="mailto:mdakamm@gmail.com">mdakamm@gmail.com</a></p>
                                     </div>
 
                                     <div className="phone">
                                         <p><span>Phone: </span>076 512 4625 / 067 713 9266</p>
+                                    </div>
+
+                                    <div className="address">
+                                        <p><span>Address: </span>Mkhuhlu Townsip 180A (Mbombela), Mpumalanga. (Open to Relocate)</p>
                                     </div>
 
                                     <div className="citizenship">

@@ -16,7 +16,6 @@ const TitleWrapper = styled.div`
 text-align:center;
 margin-bottom:25px;
 margin-top:25px;
-color:#1c2237";
 
 h2{
     font-weight:600;

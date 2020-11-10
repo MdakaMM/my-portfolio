@@ -21,7 +21,7 @@ export default function Contact() {
             {value=>{
                 return(
                     <React.Fragment>
-                        <Title title="Contact" color="gray" />
+                        <Title title="Contact" color="#1c2237" />
                         <div className="contact">
                             <div className="container">
                                 <div className="contact-center">

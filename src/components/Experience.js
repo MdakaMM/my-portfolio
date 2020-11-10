@@ -9,7 +9,7 @@ export default function Skills() {
                 return(
                     <div className="experience">
                         <div className="container">
-                            <Title title="Experience" color="grey"/>
+                            <Title title="Experience" color="#1c2237"/>
 
                             {/* <div className="skills-center">
                                 <div className="skills-web">
