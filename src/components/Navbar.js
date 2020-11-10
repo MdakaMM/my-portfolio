@@ -26,7 +26,7 @@ export default function Navbar() {
                             <nav>
                                 <div className="logoBtn">
                                     <Link to="/" onClick={handleClose}><img src={logo} 
-                                    onClick={()=>scrollToElement("Home")} alt="picture"/></Link>
+                                    onClick={()=>scrollToElement("Home")} alt="pic"/></Link>
 
                                     <div className="btn" onClick={handleSidebar} >
                                         <div className="bar"></div>
